@@ -39,15 +39,6 @@ const token7 = new Discord.Client();
 const token8 = new Discord.Client();
 const token9 = new Discord.Client();
 const token10 = new Discord.Client();
-const token11 = new Discord.Client();
-const token12 = new Discord.Client();
-const token13 = new Discord.Client();
-const token14 = new Discord.Client();
-const token15 = new Discord.Client();
-const token16 = new Discord.Client();
-const token17 = new Discord.Client();
-const token18 = new Discord.Client();
-const token19 = new Discord.Client();
 
 token1.on("ready", () => { 
   token1.channels.get("849798915314286602").join();
